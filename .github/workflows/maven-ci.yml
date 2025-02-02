@@ -48,5 +48,5 @@ jobs:
       - name: Maven Verify
         run: mvn verify
 
-      - name: mvn Install
-        run: mvn ins
+      - name: Maven Install
+        run: mvn install
